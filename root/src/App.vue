@@ -1,5 +1,5 @@
 <template>
-  <div id="root">
+  <div>
     <div id="nav">
       <router-link to="/user">加载用户模块</router-link> |
       <router-link to="/about">About</router-link>
