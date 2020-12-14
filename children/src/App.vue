@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <div id="nav">
       <router-link to="/user/lake">lake用户详情</router-link> |
       <router-link to="/user/admin">admin用户详情</router-link>
